@@ -1,7 +1,6 @@
 const { PDFDocument, rgb } = require("pdf-lib");
 const pdfArray = require("./pdfArray");
 
-import { rgb } from "pdf-lib";
 async function addBackgroundColor(fileInput, backgroundColor) {
   const file = fileInput.files[0];
   const arrayBuffer = await pdfArray(file);

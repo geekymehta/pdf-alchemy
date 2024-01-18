@@ -1,6 +1,5 @@
 const { PDFDocument, rgb } = require("pdf-lib");
 
-const { PDFDocument, rgb } = require("pdf-lib");
 const pdfArray = require("./pdfArray");
 
 async function watermarkPDF(fileInput, watermarkText) {
