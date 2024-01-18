@@ -19,7 +19,7 @@ const reversePDF = require("./pdf-methods/reversePDF");
 const splitPDF = require("./pdf-methods/splitPDF");
 const watermarkPDF = require("./pdf-methods/watermarkPDF.js");
 const zipToBlob = require("./pdf-methods/zipToBlob");
-const hello = require("./pdf-methods/hello");
+const test = require("./pdf-methods/test.js");
 module.exports = {
   addBackgroundColor,
   addMarginPDF,
@@ -31,7 +31,7 @@ module.exports = {
   editMetaData,
   encryptPDF,
   flattenPDFForm,
-  hello,
+  test,
   imageToPDF,
   mergePDF,
   pdfArray,
