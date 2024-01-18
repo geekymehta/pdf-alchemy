@@ -64,7 +64,6 @@
   },
   "homepage": "https://github.com/geekymehta/pdf-alchemy#readme",
   "dependencies": {
-    "node-fetch": "^3.3.2",
     "pdf-lib": "^1.17.1"
   }
 }
