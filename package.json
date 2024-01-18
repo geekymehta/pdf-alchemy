@@ -1,5 +1,5 @@
 {
-  "name": "pdf-alchemy",
+  "name": "pdf-craft",
   "version": "1.0.0",
   "description": "Elevate your PDF game with our NPM Package! Built on pdf-lib, it adds cool features like color backgrounds, margins, page numbers, and more. Break, create, and compress PDFs easily. Decrypt, edit, and encrypt securely. Flatten forms, convert images, merge files, and handle arrays. Manage metadata, resize, rotate, reverse pages, split, and watermark PDFs effortlessly. Plus, convert zip to Blob for smooth workflows. A simple, powerful tool for boosting your PDF tasks!",
   "main": "index.js",
@@ -60,9 +60,9 @@
   "author": "Sumit Mehta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geekymehta/pdf-alchemy/issues"
+    "url": "https://github.com/geekymehta/pdf-craft/issues"
   },
-  "homepage": "https://github.com/geekymehta/pdf-alchemy#readme",
+  "homepage": "https://github.com/geekymehta/pdf-craft#readme",
   "dependencies": {
     "pdf-lib": "^1.17.1"
   }
