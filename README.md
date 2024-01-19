@@ -3,6 +3,8 @@ PDF Manip: A Simple and Powerful PDF Manipulation Tool
 
 PDF Manip is a simple and powerful tool for boosting your PDF tasks. Built on top of pdf-lib, it adds cool features like color backgrounds, margins, page numbers, and more. You can easily break, create, and compress PDFs, decrypt, edit, and encrypt securely, flatten forms, convert images, merge files, and handle arrays. Plus, you can manage metadata, resize, rotate, reverse pages, split, and watermark PDFs effortlessly on the client side without the need of any server. You can even convert zip files to Blob for smooth workflows.
 
+***This package is published on npmjs.com. <br> Visit https://www.npmjs.com/package/pdf-manip for more details.***
+
 Features
 --------
 
