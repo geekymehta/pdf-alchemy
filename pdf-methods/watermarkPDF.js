@@ -2,7 +2,7 @@ const { PDFDocument, rgb } = require("pdf-lib");
 
 const pdfArray = require("./pdfArray");
 
-async function watermarkPDF(fileInput, watermarkText) {
+async function watermarkPDF(fileInput, watermarkText = "CONFIDENTIAL") {
   const file = fileInput.files[0];
   const arrayBuffer = await pdfArray(file);
   // const arrayBuffer = await file.arrayBuffer();
