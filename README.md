@@ -1,9 +1,7 @@
-# PDF Manip
-
 PDF Manip: A Simple and Powerful PDF Manipulation Tool
 ======================================================
 
-PDF Manip is a simple and powerful tool for boosting your PDF tasks. Built on top of pdf-lib, it adds cool features like color backgrounds, margins, page numbers, and more. You can easily break, create, and compress PDFs, decrypt, edit, and encrypt securely, flatten forms, convert images, merge files, and handle arrays. Plus, you can manage metadata, resize, rotate, reverse pages, split, and watermark PDFs effortlessly. You can even convert zip files to Blob for smooth workflows.
+PDF Manip is a simple and powerful tool for boosting your PDF tasks. Built on top of pdf-lib, it adds cool features like color backgrounds, margins, page numbers, and more. You can easily break, create, and compress PDFs, decrypt, edit, and encrypt securely, flatten forms, convert images, merge files, and handle arrays. Plus, you can manage metadata, resize, rotate, reverse pages, split, and watermark PDFs effortlessly on the client side without the need of any server. You can even convert zip files to Blob for smooth workflows.
 
 Features
 --------
@@ -334,7 +332,7 @@ JSZip is a JavaScript library that provides methods for creating, reading, and e
 We welcome contributions to PDF Manip! Please submit a [pull request](https://github.com/geekymehta/pdf-manip/pulls) with your changes.
 
 ## License
-PDF Manip is released under the ***MIT*** License.
+PDF Manip is released under the ***MIT License***.
 
 ## Support
 If you have any questions or need help with PDF Manip, please open an [issue](https://github.com/geekymehta/pdf-manip/issues) on [GitHub](https://github.com/geekymehta/pdf-manip).
